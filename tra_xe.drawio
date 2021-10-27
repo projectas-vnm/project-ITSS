@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T04:03:54.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="9NPAhx44FNAvPb9h56X4" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T04:05:09.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="hUQuizZX8l0WAC8g111E" version="15.5.4" type="github">
   <diagram id="_xH0tF0x8FdbTojQuO9B" name="Page-1">
     <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
               <mxPoint x="180" y="120" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_DBzP0QeqDcCKglwQ3ss-29" value="&lt;b&gt;Trả xe&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="_DBzP0QeqDcCKglwQ3ss-2">
+          <mxGeometry x="300" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_DBzP0QeqDcCKglwQ3ss-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="_DBzP0QeqDcCKglwQ3ss-10" target="_DBzP0QeqDcCKglwQ3ss-13">
           <mxGeometry relative="1" as="geometry" />
